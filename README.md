@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @havickie
+- 👋 Hi, I’m @victor
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end web development 
-- 
+- 🌱 I aM computer science student of university of Nigeria, Nsukka.
 - 📫 How to reach me? whatsapp +2349031347191
 
 <!---
