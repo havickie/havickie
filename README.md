@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @victor
+- 👋 Hi, I’m Victor
 - 👀 I’m interested in web development
-- 🌱 I aM computer science student of university of Nigeria, Nsukka.
+- 🌱 I am computer science student of University of Nigeria, Nsukka.
 - 📫 How to reach me? whatsapp +2349031347191
 
 <!---
